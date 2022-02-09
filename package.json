@@ -1,0 +1,20 @@
+{
+  "name": "w10d01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+   "scripts": {
+    "test": "jest ",
+    "start": "node app.js"
+  },
+  "jest": {
+    "testEnvironment": "node"
+    },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1"
+  
+  }
+}
